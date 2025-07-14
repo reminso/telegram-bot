@@ -11,7 +11,7 @@ class ChuvashTransliterator:
     def __init__(self):
         # Transliteration map for Chuvash Cyrillic to Latin
         self.map = {
-            'А': 'A', 'а': 'a',
+            'А': 'XXX', 'а': 'a',
             'Ӑ': 'O', 'ӑ': 'o',
             'В': 'V', 'в': 'v',
             'Е': 'E', 'е': 'e',  # Will be handled in iotation
